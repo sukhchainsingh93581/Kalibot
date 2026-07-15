@@ -1,0 +1,21 @@
+{
+  "tool": "SourcePull Open Intelligence Web Extractor",
+  "extractedUrl": "https://ais-dev-rw6palryrc6rtl6ifza6yq-425601835389.asia-east1.run.app",
+  "title": "Loading...",
+  "extractedAt": "2026-07-15T10:27:24.543Z",
+  "totalFilesScraped": 2,
+  "files": [
+    {
+      "path": "index.html",
+      "type": "html",
+      "size": "660 B",
+      "status": "success"
+    },
+    {
+      "path": "script.js",
+      "type": "js",
+      "size": "6.4 KB",
+      "status": "success"
+    }
+  ]
+}
